@@ -1,0 +1,10 @@
+baseURL: "http://www.alexandertechnique.nl/"
+languageCode: "en-us"
+title: "Alexander Techniek Opleiding Nederland"
+theme: "hyde"
+sectionPagesMenu: "main"
+canonifyurls: false
+
+params:
+  author: "A. J. Hoorweg"
+  description: "Teacher’s training for aspiring Alexander Technique-instructors. Amsterdam-area, Netherlands"

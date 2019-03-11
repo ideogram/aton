@@ -1,0 +1,14 @@
+{{ define "main" -}}
+<div>
+
+  {{ range .Pages }}
+    <section id="{{ .File.BaseFileName }}">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+
+    </section>
+
+  {{ end }}
+
+</div>
+{{- end }}
