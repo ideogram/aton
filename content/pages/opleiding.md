@@ -32,7 +32,7 @@ docenten. Door verschillende docenten (niet te veel) in te zetten leer je de
 Alexander Techniek vanuit verschillende praktijkervaringen kennen en leer je wat
 de Alexander Techniek op diverse terreinen (algemeen, psychisch en fysiek,
 vanuit diverse beroepen en bezigheden) allemaal te bieden heeft. Je krijgt een
-sterke basis om je na de opleiding in de breedte verder te oriÃ«nteren en te
+sterke basis om je na de opleiding in de breedte verder te oriënteren en te
 ontplooien.
 
 ## Impact
