@@ -6,7 +6,7 @@ weight = 1
 weight = 1
 
 +++
-_Alexander Techniek Opleiding Nederland_ (ATON) in Amstelveen biedt haar studenten de grondprincipes van de Alexandertechniek aan die essentiëel zijn in hun eigen ontwikkeling èn van belang zijn voor het lesgeven in de Alexandertchniek.
+_Alexander Techniek Opleiding Nederland_ (ATON) biedt haar studenten de grondprincipes van de Alexandertechniek aan die essentiëel zijn in hun eigen ontwikkeling èn van belang zijn voor het lesgeven in de Alexandertchniek.
 
 Op deze site vindt u meer informatie over individuele lessen in de
 Alexandertechniek [(individuele lessen)](#individuele-lessen) en over de
