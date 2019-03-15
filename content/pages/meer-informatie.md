@@ -7,7 +7,7 @@ weight = 7
 +++
 Boeken geschreven door F.M. Alexander:
 
-**“Man’s Supreme Inheritance”**\
+**â€œManâ€™s Supreme Inheritanceâ€**\
 F.M. Alexander\
 ISBN 09525574-0-1
 
@@ -39,7 +39,7 @@ Zusterverenigingen: **ATAS**
 [www.alexandertechniqueworldwide.com](http://www.alexandertechniqueworldwide.com)
 
 
-Bekijk ook eens deze [video’s over de Alexander Techniek van DavidReedMedia
+Bekijk ook eens deze [videoâ€™s over de Alexander Techniek van DavidReedMedia
 op YouTube](http://www.youtube.com/user/davidreedmedia)
 
 Bekijk ook eens deze [video over de Alexander Techniek op

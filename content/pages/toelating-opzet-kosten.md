@@ -13,9 +13,9 @@ willen we je graag beter leren kennen.
 
 ## Toelating tot de opleiding
 
-In eerste instantie zullen we je uitnodigen om 3 á 4 dagen op de opleiding te
+In eerste instantie zullen we je uitnodigen om 3 Ã¡ 4 dagen op de opleiding te
 komen proeven, vervolgens bestaat de toelatingsprocedure uit een persoonlijk
-gesprek, enige privé lessen en het invullen van een vragenformulier. Daarna
+gesprek, enige privÃ© lessen en het invullen van een vragenformulier. Daarna
 bepalen we samen met jou of ATON inderdaad de juiste plek is voor jou. Is ATON
 de juiste plek dan vragen wij je een overeenkomst te tekenen.
 
@@ -28,7 +28,7 @@ Nederlands.
 ## Inhoud van de opleiding
 
 De opleiding duurt drie jaren, elk van 35 weken en bestaat voor 80% uit
-praktisch Alexanderwerk en 20% theorie. We werken vier dagen per week van 9:00 tot 12:30 uur. Deze intensiteit en continuïteit verhogen de
+praktisch Alexanderwerk en 20% theorie. We werken vier dagen per week van 9:00 tot 12:30 uur. Deze intensiteit en continuÃ¯teit verhogen de
 effectiviteit van de techniek en de verdieping die je bereikt.
 
 Het **eerste jaar** staat in het teken van het leren denken en functioneren
@@ -66,7 +66,7 @@ persoonlijke ontwikkeling in de techniek en als toekomstig leraar. Studenten
 kunnen met vragen over het opleiden terecht bij de moderator.
 
 ## Kosten
-€ 7.500,- per jaar. Betaling per trimester (€ 2.500,-) is mogelijk. Wijzigingen
+â‚¬ 7.500,- per jaar. Betaling per trimester (â‚¬ 2.500,-) is mogelijk. Wijzigingen
 voorbehouden.
 
 ATON is geregistreerd bij het Centraal Register Kort Beroepsonderwijs (_CRKBO_)

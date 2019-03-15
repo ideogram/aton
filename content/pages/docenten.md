@@ -10,11 +10,11 @@ weight = 4
 
 > Ik volgde de driejarige dagopleiding Alexander Techniek in Londen van 1975
 > tot en met 1977 bij Walter* en Dilys Carrington. Na mijn opleiding gaf ik tien
-> jaar lang privélessen en startte in januari 1987 de opleiding voor leraren
+> jaar lang privÃ©lessen en startte in januari 1987 de opleiding voor leraren
 > in Nederland.  
 >   
 > Naast mijn werk als docent op de opleiding, geef ik ook jaarlijks les op
-> verschillende opleidingen in Zuid-Amerika. Verder geef ik privéles in
+> verschillende opleidingen in Zuid-Amerika. Verder geef ik privÃ©les in
 > Amstelveen (thuis), Alkmaar en Utrecht. In Alkmaar werk ik samen met een
 > psycholoog en veelal met mensen met bijv. burn-out. In Utrecht vormen we
 > met 4 collegea het Utrechts Alexander Techniek Instituut voor Musici,
@@ -29,7 +29,7 @@ Hij was assistent van Alexander tot diens dood in 1955 en nam daarna de leiding 
 **Anna Koolen** is sinds juli 1999 als docent verbonden aan AlexanderTechniek Opleiding Nederland
 
 > Ik help mensen en organisaties graag hun bezieling/passie en richting
-> terug te vinden door te leren stoppen met ongerichte “spierkracht”
+> terug te vinden door te leren stoppen met ongerichte â€œspierkrachtâ€
 > oftewel de discipline van moeiteloosheid in praktijk te brengen.
 > Mijn werkwijze is gebaseerd op de Alexander Techniek. Daarnaast heb ik veel
 > ervaring met diverse psychologische technieken over kwaliteiten, omgaan met
@@ -48,5 +48,5 @@ Nederland.
 > Ik studeerde in Amsterdam wiskunde aan de VU en zang aan het Sweelinck
 > conservatorium. Naast het geven van wiskundeles zong ik tien jaar in het
 > Nederlands Vocaal Ensemble en dirigeerde ik diverse koren. Ik geef les in
-> Alexander Techniek aan het conservatorium in Utrecht en in mijn privé
+> Alexander Techniek aan het conservatorium in Utrecht en in mijn privÃ©
 > praktijk te Deventer. Zie ook [www.eristijd.nl](http://www.eristijd.nl)

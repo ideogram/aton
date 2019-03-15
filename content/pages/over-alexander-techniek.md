@@ -7,15 +7,15 @@ weight = 5
 +++
 
 > One has to make a change in the manner of use to raise the standerd of general functioning.
-    **— F.M. Alexander (1869-1955)**
+    **â€” F.M. Alexander (1869-1955)**
 
-De Alexandertechniek dankt haar naam aan de grondlegger ervan, de Australiër
+De Alexandertechniek dankt haar naam aan de grondlegger ervan, de AustraliÃ«r
 F.M. Alexander. Alexander werkte als voordrachtskunstenaar totdat hij door
 stemproblemen niet meer zijn werk kon doen. Geen arts wist hem wegwijs te maken
 met dit probleem, anders dan rust te nemen, hetgeen niet hielp. Hierdoor ging
 hij zelf onderzoeken wat er mis was en wat hij zelf kon doen om dit te
 verhelpen, en kwam zo op empirische wijze tot zijn bevindingen. Hieruit ontstond
-zijn psychisch-fysieke reëducatieve methode.
+zijn psychisch-fysieke reÃ«ducatieve methode.
 
 Alexander begon in de jaren negentig van de 19e eeuw les te geven in zijn
 techniek. Zijn ervaring en kennis zijn dankzij de generatie die met hem heeft
