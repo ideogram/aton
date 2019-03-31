@@ -6,13 +6,11 @@ weight = 1
 weight = 1
 
 +++
+_Alexander Techniek Opleiding Nederland_ (ATON) in Amstelveen biedt haar studenten de grondprincipes van de Alexandertechniek aan die essentiëel zijn in hun eigen ontwikkeling en van belang zijn voor het lesgeven in de Alexandertchniek.
 
-![Game met een menselijke pyramide, in opbouw](/pyramide1.jpg)
+Op deze site vindt u meer informatie over individuele lessen in de
+Alexandertechniek [(individuele lessen)](#individuele-lessen) en over de
+opleiding tot docent Alexandertechniek [(opleding)](#opleiding)
 
-Op deze site vindt u informatie over  [individuele lessen in de Alexandertechniek](#individuele-lessen) en over de
- [opleiding tot docent Alexandertechniek](#opleiding) aan het _Alexander Techniek Opleiding Nederland_ (ATON) 
-in Amstelveen.
-
-_Alexander Techniek Opleiding Nederland_ (ATON) in Amstelveen biedt haar studenten de grondprincipes van de 
-Alexandertechniek aan die essenti&euml;el zijn in hun eigen ontwikkeling en van belang zijn voor het lesgeven in de 
-Alexandertchniek.
+Het opleidingsprogramma stelt de student in staat zelfstandig, met vertrouwen en
+op een explorerende en open manier les te geven.
