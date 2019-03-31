@@ -9,6 +9,7 @@ weight = 5
 > One has to make a change in the manner of use to raise the standerd of general functioning.
     **— F.M. Alexander (1869-1955)**
 
+![F. M. Alexander](/fm.jpg)
 De Alexandertechniek dankt haar naam aan de grondlegger ervan, de Australiër
 F.M. Alexander. Alexander werkte als voordrachtskunstenaar totdat hij door
 stemproblemen niet meer zijn werk kon doen. Geen arts wist hem wegwijs te maken

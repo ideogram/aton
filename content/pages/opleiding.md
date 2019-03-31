@@ -6,6 +6,15 @@ menu = "main"
 weight = 2
 +++
 
+Het doel van de opleiding is het opleiden van studenten tot leraren in de
+Alexander Techniek. Daarnaast is het mogelijk om de opleiding tijdelijk te
+bezoeken voor verdieping in de techniek, zonder dat men de ambitie heeft om
+leraar te worden. Ook biedt ATON maandelijks een bijscholingsbijeenkomst voor
+afgestudeerde leraren in de Alexander Techniek.
+
+Het opleidingsprogramma stelt de student in staat zelfstandig, met vertrouwen en op een explorerende en 
+open manier les te geven.
+
 Als afgestudeerde van de Alexander Techniek Opleiding Nederland (ATON) krijg je
 een diploma dat je het recht geeft om de Alexander Techniek aan anderen te
 onderwijzen. Het volgen van de opleiding betekent ook dat je je serieus wilt
@@ -16,12 +25,6 @@ de internationale zusterverenigingen: Alexander Technique Affiliated Societies
 [(ATAS)](http://www.alexandertechniqueworldwide.com). ATON is tevens geregistreerd bij het Centraal Register Kort
 Beroepsonderwijs (CRKBO) als private onderwijsinstellingen die
 beroepsonderwijs aanbiedt (zie ook onder kosten).
-
-Het doel van de opleiding is het opleiden van studenten tot leraren in de
-Alexander Techniek. Daarnaast is het mogelijk om de opleiding tijdelijk te
-bezoeken voor verdieping in de techniek, zonder dat men de ambitie heeft om
-leraar te worden. Ook biedt ATON maandelijks een bijscholingsbijeenkomst voor
-afgestudeerde leraren in de Alexander Techniek.
 
 ## Leerproces
 
@@ -85,3 +88,5 @@ overgenomen.
 
 
 Heb je vragen? Neem gerust [contact](#contact) op, we geven je graag antwoord.
+
+![Voorbeeld van het werken aan de “procedures”](/eric-en-arie-jan.jpg)
