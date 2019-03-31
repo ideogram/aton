@@ -6,7 +6,7 @@ weight = 1
 weight = 1
 
 +++
-![image alt text](/my_image.png)
+![Game met een menselijke pyramide, in opbouw](/pyramide1.jpg)
 _Alexander Techniek Opleiding Nederland_ (ATON) in Amstelveen biedt haar studenten de grondprincipes van de 
 Alexandertechniek aan die essentiëel zijn in hun eigen ontwikkeling en van belang zijn voor het lesgeven in de 
 Alexandertchniek.
