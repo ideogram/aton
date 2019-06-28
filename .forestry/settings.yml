@@ -5,15 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/english
+  path: content
   label: English
   create: all
-  match: "**/*"
+  match: english/*.md
 - type: directory
-  path: content/dutch
+  path: content
   label: Nederlands
   create: all
-  match: "**/*"
+  match: dutch/*.md
 - type: directory
   path: content
   label: Pages
