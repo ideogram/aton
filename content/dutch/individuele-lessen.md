@@ -6,8 +6,6 @@ menu = "main"
 weight = 6
 +++
 
-## Individuele lessen in de Alexander Techniek
-
 > Alexander had found a method applicable to most common problems of daily 
   life: the problem of habitual misuse of the self, of thoughtlessness.
   **— Walter Carrington MSI 1996**
@@ -84,13 +82,15 @@ overbelasting of stress.
 
 Mensen die vanuit hun dagelijks leven of beroep eenzijdige of subtiele
 bewegingen moeten maken, vinden in de Alexander Techniek een goede
-ondersteuning. Zo bereiken muzikanten, dansers en acteurs, via de Alexander
+ondersteuning. Zo bereiken **muzikanten, dansers en acteurs**, via de Alexander
 Techniek een perfectionering van hun reactie- en bewegingspatronen die ze door
-harder en meer te oefenen niet altijd zouden bereiken. Zo bereiken mensen met
-fysiek zware beroepen dat ze met minder en met beter aangestuurde spierkracht
-minder fysieke klachten hebben. Voor mensen met psychische klachten zal de
-Alexander Techniek via de efficiëntere fysieke weg meer psychische rust kunnen
-brengen. (We claimen geen psychologie te bedrijven)
+harder en meer te oefenen niet altijd zouden bereiken. 
+
+Evenzo bereiken mensen met **fysiek zware beroepen** dat ze met minder en met beter
+aangestuurde spierkracht minder fysieke klachten hebben. 
+
+Voor mensen met **psychische klachten** zal de Alexander Techniek via de efficiëntere 
+fysieke weg meer psychische rust kunnen brengen. (We claimen geen psychologie te bedrijven)
 
 ## Lessen Alexander Techniek.
 

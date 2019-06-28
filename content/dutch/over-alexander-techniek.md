@@ -10,7 +10,7 @@ weight = 5
     **— F.M. Alexander (1869-1955)**
 
 ![F. M. Alexander](/fm.jpg)
-De Alexandertechniek dankt haar naam aan de grondlegger ervan, de Australiër
+De Alexandertechniek dankt haar naam aan de grondlegger ervan, de Australi&euml;r
 F.M. Alexander. Alexander werkte als voordrachtskunstenaar totdat hij door
 stemproblemen niet meer zijn werk kon doen. Geen arts wist hem wegwijs te maken
 met dit probleem, anders dan rust te nemen, hetgeen niet hielp. Hierdoor ging

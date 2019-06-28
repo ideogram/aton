@@ -1,9 +1,18 @@
 baseURL: "http://www.alexandertechnique.nl/"
-languageCode: "en-us"
+defaultContentLanguage: "nl"
 title: "Alexander Techniek Opleiding Nederland"
 theme: "hyde"
 sectionPagesMenu: "main"
 canonifyurls: false
+languages:
+  nl:
+    contentDir: content/dutch
+    languageName: Lees in het Nederlands
+    weight: 10
+  en:
+    contentDir: content/english
+    languageName: Read in English
+    weight: 20
 
 params:
   author: "A. J. Hoorweg"

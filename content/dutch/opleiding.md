@@ -54,6 +54,9 @@ Persoonlijke aandacht is essentieel om Alexander Techniek goed te onderwijzen.
 Daarom kiest ATON voor een kleine school. De groep studenten (eerste-, tweede-
 en derdejaars samen) bestaat uit maximaal twaalf personen.
 
+![Game met een menselijke pyramide, in opbouw](/pyramide1.jpg)
+
+
 ## Het docententeam
 
 De verhouding docent-student is minimaal 1 op 5. Het docententeam bestaat uit

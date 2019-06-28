@@ -5,9 +5,6 @@ draft = false
 menu = "main"
 weight = 7
 +++
-
-![Game with two chairs](/game-with-two-chairs-1.jpg)
-
 Boeken geschreven door F.M. Alexander:
 
 **“Man’s Supreme Inheritance”**\
