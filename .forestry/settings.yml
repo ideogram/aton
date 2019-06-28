@@ -14,11 +14,17 @@ sections:
   label: English
   create: documents
   match: "*.md"
+- type: directory
+  path: content/pages
+  label: Pages
+  create: documents
+  match: "*.md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo -d public
