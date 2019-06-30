@@ -84,7 +84,7 @@ html {
 
     .sidebar::after {
         content: "";
-        background: center / cover  url('../stones2.jpg');
+        background: center / cover  url('../vogel.jpg');
         opacity: 0.5;
         top: 0;
         left: 0;
