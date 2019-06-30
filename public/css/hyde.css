@@ -65,11 +65,11 @@ html {
 
 #language{
   list-style: none inside none;
+  padding-left: 1rem;
 }
 
 #language a{
   color: white;
-  margin: 0;
 }
 
 @media (min-width: 48em) {
