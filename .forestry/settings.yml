@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content/dutch
-  label: Netherlands
+  label: Nederlands
   create: documents
   match: "*.md"
 - type: directory
@@ -14,13 +14,6 @@ sections:
   label: English
   create: documents
   match: "*.md"
-- type: directory
-  path: content/pages
-  label: Pages
-  create: documents
-  match: "*.md"
-  templates:
-  - page
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
