@@ -1,32 +1,18 @@
 +++
+date = "2018-10-17T21:41:37.000+02:00"
 title = "Individual Lessons"
-date = 2018-10-17T21:41:37+02:00
-draft = false
-menu = "main"
 weight = 6
-+++
+[menu.main]
+weight = 6
 
-> Alexander had found a method applicable to most common problems of daily 
-  life: the problem of habitual misuse of the self, of thoughtlessness.
-  **— Walter Carrington MSI 1996**
++++
+> Alexander had found a method applicable to most common problems of daily
+> life: the problem of habitual misuse of the self, of thoughtlessness.
+> **— Walter Carrington MSI 1996**
 
 ## From a lost/reduced psycho-physical balance to effortless movement
 
-We often get so caught up by the fast and busy lives that we hardly spend any
-more time on ourselves. This leads to that we become aware (too)late when our
-bodies literally suffers from stress and/or overload. Small kids react and move
-efficiently in a natural and light way. In the course of years the efficient and
-light working coordination between the cooperating (balance)mechanisms (read:
-think, want and feel) become unbalanced and with that the musculoskeletal system
-loses its subtle working, and with that, has to do more to keep us upright, in
-one way or the other. The seemingly effortlessness of moving in small children
-slowly declines and changes unnoticed into a stiffer way of moving, which can
-clearly be seen in adults. We will not get this coordination, with its
-associated subtle muscle activities or control back, by simply doing more
-exercises or trying harder. As that is, reinforcing the present or habitual way
-of reacting in processes like thinking, willing and feeling (the use of
-ourselves), these have gotten us into problems in the first place. That means at
-a basic level nothing has changed, only at a superficial level.
+We often get so caught up by the fast and busy lives that we hardly spend any more time on ourselves. This leads to that we become aware (too)late when our bodies literally suffers from stress and/or overload. Small kids react and move efficiently in a natural and light way. In the course of years the efficient and light working coordination between the cooperating (balance)mechanisms (read: think, want and feel) become unbalanced and with that the musculoskeletal system loses its subtle working, and with that, has to do more to keep us upright, in one way or the other. The seemingly effortlessness of moving in small children slowly declines and changes unnoticed into a stiffer way of moving, which can clearly be seen in adults. We will not get this coordination, with its associated subtle muscle activities or control back, by simply doing more exercises or trying harder. As that is, reinforcing the present or habitual way of reacting in processes like thinking, willing and feeling (the use of ourselves), these have gotten us into problems in the first place. That means at a basic level nothing has changed, only at a superficial level.
 
 Alexander discovered that our (automatic) reactions are the key to let the
 subtle cooperating mechanisms work uninterfered with. When we do not try to do
@@ -68,6 +54,7 @@ Technique because one can take one’s own responsibility for one’s own well
 being, actively.
 
 ## For whom is the Alexander Technique?
+
 The Alexander Technique is for everybody who is interested in reacting and
 moving more efficiently. For people who have neck-, back- and shoulder
 complaints or other complaints, which are caused by wrong habits or stress.
@@ -105,8 +92,8 @@ A lesson cost anything between € 35,- and € 60,- (incl. vat), depending on l
 Would you like to book a lesson or do you have questions? Please, do [contact us](#contact) .
 
 For an overview of teachers in the Netherlands or elsewhere in the world:
-- [Alexander Techniek leraren in Nederland](http://www.alexandertechniek.nl/)
-- [Alexander Techniek leraren in het buitenland](http://www.alexandertechniqueworldwide.com/)
+
+* [Alexander Techniek leraren in Nederland](http://www.alexandertechniek.nl/)
+* [Alexander Techniek leraren in het buitenland](http://www.alexandertechniqueworldwide.com/)
 
 On this website you find more information on training to become a teacher in the Alexander Techniek.
-
